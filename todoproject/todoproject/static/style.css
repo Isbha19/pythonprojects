@@ -1,0 +1,12 @@
+.banner{
+background-color:palevioletred;
+height:100px;
+margin-bottom:50px;
+}
+.bannertext{
+color:darkred;
+top:15%;
+left:45%;
+position:relative;
+transform:transform;
+}
